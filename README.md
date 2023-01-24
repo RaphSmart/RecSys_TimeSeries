@@ -1,2 +1,2 @@
 # RecSys_TimeSeries
-This repo contains notebooks for practical works for recommender systems and time series.
+This repo contains practical work notebooks for recommender systems and time series.
